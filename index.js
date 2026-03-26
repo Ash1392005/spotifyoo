@@ -1,5 +1,5 @@
 const express = require('express');
-const YTMusic = require('ytmusicapi').default;
+const YTMusic = require('ytmusicapi.js').default;
 const ytdl = require('@distube/ytdl-core');
 const cors = require('cors');
 
