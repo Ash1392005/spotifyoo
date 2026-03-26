@@ -4,7 +4,7 @@
   "main": "api/index.js",
   "dependencies": {
     "express": "^4.18.2",
-    "ytmusicapi": "^5.1.0",
+    "ytmusicapi.js": "^5.1.0",
     "@distube/ytdl-core": "^4.13.5",
     "cors": "^2.8.5"
   },
